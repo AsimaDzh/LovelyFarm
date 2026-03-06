@@ -50,7 +50,7 @@ Special attention in the project is paid to visual design:
 Lovely Farm is optimized for PC with keyboard controls.  
 
 
-## 👥 Authors
+## 👤 Authors
 AsimaDzh 🍋
 
 
